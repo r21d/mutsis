@@ -1,0 +1,108 @@
+Lenovo ThinkPad T14 on yritysmaailman kannettava työjuhta erinomaisella liitettävyydellä ja suorituskyvyllä. ThinkPad T14 on luotettava ja kevytrakenteinen kannettava liikkuville ammattilaisille, joista löytyy tietoturvaa ja tuottavuutta parantavia ominaisuuksia. Muovi- ja lasikuituseoksesta valmistettu runko tarjoaa käytännön kestävyyttä, kun kuljetat kannettavaa matkoillasi.
+
+Aina valmiina - Modern Standby -ominaisuuden avulla ThinkPad T14 herää lepotilasta jopa sekunnissa ja kytkeytyy verkkoon välittömästi. T14 on aina valmiina työhön.
+
+Onnistuneet etäpalaverit - Kannettavien tietokoneiden parasta kirjoitustuntumaa tarjoava näppäimistö sisältää pikapainikkeet kommunikointia varten, joiden avulla vastaat ja lopetat puhelut helposti. Kaksoismikrofoni ja Full HD 1080p -webkamera fyysisellä Privacy Shutter -kamerasulkijalla tarjoaa kuva- ja ääniyhteydet turvallisesti laadukkasti.
+
+Käytännön tietoturvaa - Lenovo ThinkShield on kokonaisuus, joka sisältää tietoturvaa parantavia ja yksityisyyttä varjelevia ominaisuuksia. Fyysinen Privacy Shutter -kamerasulkija estää urkkimasta kameran kautta. IR-kamera mahdollistaa nopean ja turvallisen sisäänkirjautumisen kasvotunnistuksella. Helppoa kirjautumista tarjoaa myös kosketustyylinen ja tietoturvallinen Match-on-Chip -sormenjälkilukija. Lisäksi T14 sisältää erillisen TPM-tietoturvasirun helpottamaan mm. tietojen salausta yhdessä Windows 11:n tietoturvaominaisuuksien kanssa.
+
+Kattava liitettävyys ja yhteydet - Kaksi perinteistä USB 3.2 Gen 1 -liitäntää sekä huippunopea USB 4 (USB-C) -liitäntä mahdollistavat helpon telakoinnin ja oheislaitteiden liitettävyyden. ThinkPad T14 tukee Wi-Fi 6E -määrittelyä, joka tarjoaa nykyaikaiset ja nopeat yhteydet yhteensopivissa verkoissa.
+
+Hiilikompensoitu malli - Tämän mallin CO²-päästöt kompensoidaan perustuen realistisiin päästölaskelmiin. Kompensaatiossa otetaan huomioon aiheutuneet päästöt tuotteen valmistuksesta, kuljetuksesta ja sekä tyypillisestä käytöstä viiden vuoden elinkaarella. Jokainen tuote raportoidaan Lenovon valitsemalle päästökumppanille yksilöllisesti (sarjanumero) ja tuotteesta maksettu kompensaatio käytetään edistämään mm. erilaisia ilmastoprojekteja. Lue lisää Lenovon ECO Declarations sivuilta.
+
+3 vuoden Premier tuki- ja takuu**.
+
+ThinkPad T14 ominaisuudet:
+
+Väri: Thunder Black, musta
+Näyttö: 14" WUXGA (1920 x 1200) 16:10 IPS -näyttö, 300 nit, matalakiiltoinen
+Suoritin: AMD Ryzen 7 PRO 7840U (8 ydintä, jopa 5,1 GHz, 16 säiettä, 8+16 Mt)
+Piirisarja: integroitu suorittimeen
+Muisti: 32 Gt (kiinteä) LPDDR5x-6400, ei päivitettävissä
+Kiintolevy: 512 Gt SSD (M.2 2280 PCIe 4.0x4 NVMe Opal 2.0)
+Näytönohjain: integroitu AMD Radeon 780M Graphics
+Ääni: stereokaiuttimet, Dolby Audio, kaksoismikrofoni 360°
+Verkko-ominaisuudet: Gigabit Ethernet, Wi-Fi 6E (Qualcomm Wi-Fi 6E NFA725A, 802.11ax, 2x2), Bluetooth 5.2
+Optinen asema: ei
+Webkamera: Full HD 1080p + IR, Privacy Shutter
+Turvaominaisuudet: Lukkoliitäntä, TPM 2.0 -turvasiru (TCG-sertifioitu), sormenjälkilukija (Touch, Match-On-Chip, virtapainikkeessa), Smart Card
+Liitännät: 1 x USB4 40 Gbps (data, DisplayPort 1.4a, Power Delivery 3.0), 1 x USB-C 3.2 Gen 2 (data, DisplayPort 1.4a, Power Delivery 3.0), 2 x USB 3.2 Gen 1 (yksi aina päällä), HDMI (4K @ 60 Hz), RJ-45, kuuloke-/mikrofoniyhdistelmä, nano-SIM
+Kortinlukija: ei
+Syöttölaitteet: Roiskesuojattu taustavalaistu näppäimistö, kosketuslevy ja TrackPoint-tappiohjain
+Ohjelmisto: -
+Akku: sisäänrakennettu 52,5 Wh Li-Polymer, tukee RapidCharge -toimintoa (80% kapasiteetti tunnin latauksella), kesto n. 14 tuntia (MobileMark 2018)
+Virtalähde: 65 W USB-C
+Käyttöjärjestelmä: Windows 11 Pro 64-bit (FI/SV/NO/DK/EN)
+Muuta:
+Paino: n. 1,39 kg
+Mitat: 317,7 x 226,9 x 17,9 mm
+Takuu: 3 vuoden Premier Support (akku 1 vuosi) **
+**Lenovo Premier-tuki tarjoaa laajennetun tukipalvelukokonaisuuden kokonaan oman palvelunumeron kautta parannetulla vasteajalla ja laajennetuilla aukioloajoilla. Paikallisen tuen lisäksi Premier-tuen saa maailmanlaajuisesti yli sadassa maassa. Huoltotapauksesta vastaa nimetty Technical Account Manager, joka seuraa huoltotapauksia aktiivisesti. Mikäli tarvitset aina teknikon paikan päälle, suosittelemme Tech Install CRU (TICRU) -huoltolaajennusta. Katso alta myös muut huoltolaajennukset.
+
+Huoltolaajennukset:
+
+Premier Support - laajennettu päivystys ja tuki sekä nopeampi vasteaika
+Tech Install CRU (TICRU) - tekninen asiantuntija paikalle kaikissa huoltotapauksissa
+3 vuoden Sealed Battery - kattaa viallisen akun vaihdon yhden kerran 3 vuoden aikana
+Keep Your Drive - mikäli kannettavan kiintolevy vioittuu, saa asiakas pitää viallisen kappaleen
+Accidental Damage Protection - tehdastakuuta kattavampi tukitaso, joka korvaa myös vahingoista aiheutuneet laiterikot
+Accidental Damage Protection One- tehdastakuuta kattavampi tukitaso, joka korvaa myös vahingoista aiheutuneet laiterikot kerran sopimuskauden aikana
+Osta tämä tietokone nyt, niin saat veloituksetta kolmen vuoden takuun! Aktivoi takuu lisäämällä tilaukselle tuotekoodi 160956. Vain kuluttaja-asiakkaille. Lue lisää: https://www.verkkokauppa.com/fi/kolmevuotta.
+
+
+CUTS OF HERE
+
+Lenovo ThinkPad T14s on ohuempi ja kevyempi vaihtoehto T14-mallille, joka sopii erinomaisesti liikkuvan työntekijän tarpeisiin. Jämäkkä runko on valmistettu kestävistä materiaaleista ja tarjoaa pitkän akkukeston. AMD Ryzen PRO -suoritin, DDR5-muisti sekä huippunopea PCIe SSD-levy vauhdittavat päivittäistä työskentelyä. ThinkPad T14s on Lenovon myydyimpiä yrityskannettavia.
+
+Jämäkkä kokonaisuus - Kannessa käytetty hiilikuituvahvisteinen muovi ja rungon magnesium tarjoavat keveyden lisäksi parempaa kestävyyttä ja jämäkkyyttä. Kaikki tervetulleita ominaisuuksia paljon liikkuvalle ammattilaiselle.
+
+Aina valmiina - Modern Standby -ominaisuuden avulla ThinkPad T14s herää lepotilasta jopa sekunnissa ja kytketytyy verkkoon välittömästi. T14s on aina valmiina työhön.
+
+Onnistuneet etäpalaverit - Kannettavien tietokoneiden parasta kirjoitustuntumaa tarjoava näppäimistö sisältää pikapainikkeet kommunikointia varten, joiden avulla vastaat ja lopetat puhelut helposti. Kaksoismikrofoni ja viiden megapikselin webkamera fyysisellä Privacy Shutter -kamerasulkijalla tarjoaa kuva- ja ääniyhteydet turvallisesti laadukkasti.
+
+Käytännön tietoturvaa - Lenovo ThinkShield on kokonaisuus, joka sisältää tietoturvaa parantavia ja yksityisyyttä varjelevia ominaisuuksia. Fyysinen Privacy Shutter -kamerasulkija estää urkkimasta kameran kautta. IR-kamera mahdollistaa nopean ja turvallisen sisäänkirjautumisen kasvotunnistuksella. Helppoa kirjautumista tarjoaa myös kosketustyylinen ja tietoturvallinen Match-on-Chip -sormenjälkilukija. Lisäksi T14s sisältää erillisen TPM-tietoturvasirun helpottamaan mm. tietojen salausta yhdessä Windows 11:n tietoturvaominaisuuksien kanssa.
+
+Kattava liitettävyys ja yhteydet - T14s on varustettu kahdella huippunopealla USB4 -liitännällä, jotka tarjoavat 40 Gbps tiedonsiirtonopeuden oheislaitteille, kuten näytöille. ThinkPad T14s tukee Wi-Fi 6E -määrittelyä, joka tarjoaa nykyaikaiset ja nopeat yhteydet yhteensopivissa verkoissa.
+
+Hiilikompensoitu malli - Tämän mallin CO²-päästöt kompensoidaan perustuen realistisiin päästölaskelmiin. Kompensaatiossa otetaan huomioon aiheutuneet päästöt tuotteen valmistuksesta, kuljetuksesta ja sekä tyypillisestä käytöstä viiden vuoden elinkaarella. Jokainen tuote raportoidaan Lenovon valitsemalle päästökumppanille yksilöllisesti (sarjanumero) ja tuotteesta maksettu kompensaatio käytetään edistämään mm. erilaisia ilmastoprojekteja. Lue lisää Lenovon ECO Declarations sivuilta.
+
+3 vuoden Premier tuki- ja takuu**.
+
+ThinkPad T14s ominaisuudet:
+
+Väri: Musta
+Materiaali: kansi hiilikuituvahvistettu muovi, pohja alumiini
+Näyttö: 14" WUXGA (1920 x 1200) Low Power IPS, 400 nit, 100% sRGB, matalakiiltoinen, Eyesafe Certified
+Suoritin: AMD Ryzen 7 PRO 7840U (8 ydintä, jopa 5,1 GHz, 16 säiettä, 8+16 Mt)
+Piirisarja: integroitu suorittimeen
+Muisti: 32 Gt LPDDR5x-6400 kiinteä, ei päivitettävissä
+Kiintolevy: 512 Gt SSD (M.2 2280 PCIe 4.0x4 Performance NVMe Opal 2.0)
+Näytönohjain: integroitu AMD Radeon 780M Graphics
+Ääni: stereokaiuttimet, Dolby Audio, kaksoismikrofoni 360°
+Verkko-ominaisuudet: Wi-Fi 6E (Qualcomm Wi-Fi 6E NFA725A 802.11ax, 2x2), Bluetooth 5.2
+Optinen asema: ei
+Webkamera: 5 megapikseliä + IR, Privacy Shutter
+Turvaominaisuudet: TPM 2.0 -turvasiru (TCG-sertifioitu), sormenjälkilukija (Touch, Match-On-Chip, virtapainikkeessa), Smart Card, Kensington Nano -lukkoliitäntä
+Liitännät: 2 x USB4 40 Gbps (data / DisplayPort 1.4a, Power Delivery 3.0), 2 x USB 3.2 Gen 1 (1 x always on), HDMI (4K/60 Hz), 3,5 mm kuuloke-mikrofoni, älykortti
+Kortinlukija: ei
+Syöttölaitteet: Roiskesuojattu taustavalaistu näppäimistö, kosketuslevy ja TrackPoint-tappiohjain
+Ohjelmisto: -
+Akku: sisäänrakennettu 57 Wh Li-Po Rapid Charge, kesto jopa 15 tuntia*
+Virtalähde: 65 W USB-C Slim (3-pin)
+Käyttöjärjestelmä: Windows 11 Pro 64-bit (FI/SV/NO/DK/EN)
+Paino: n. 1,26 kg
+Mitat: 317,5 x 226,9 x 16,9 mm
+Takuu: 3 vuoden Premier Support (akku 1 vuosi) **
+Huoltolaajennukset:
+
+Premier Support - laajennettu päivystys ja tuki sekä nopeampi vasteaika
+Tech Install CRU (TICRU) - tekninen asiantuntija paikalle kaikissa huoltotapauksissa
+3 vuoden Sealed Battery - kattaa viallisen akun vaihdon yhden kerran 3 vuoden aikana
+Keep Your Drive - mikäli kannettavan kiintolevy vioittuu, saa asiakas pitää viallisen kappaleen
+Accidental Damage Protection - tehdastakuuta kattavampi tukitaso, joka korvaa myös vahingoista aiheutuneet laiterikot
+Accidental Damage Protection One- tehdastakuuta kattavampi tukitaso, joka korvaa myös vahingoista aiheutuneet laiterikot kerran sopimuskauden aikana
+*Akkukestoon vaikuttaa käyttöprofiilin ohella mm. kokoonpanoon valittu näyttöpaneeli ja suoritin.
+
+**Lenovo Premier-tuki tarjoaa laajennetun tukipalvelukokonaisuuden kokonaan oman palvelunumeron kautta parannetulla vasteajalla ja laajennetuilla aukioloajoilla. Paikallisen tuen lisäksi Premier-tuen saa maailmanlaajuisesti yli sadassa maassa. Huoltotapauksesta vastaa nimetty Technical Account Manager, joka seuraa huoltotapauksia aktiivisesti. Mikäli tarvitset aina teknikon paikan päälle, suosittelemme Tech Install CRU (TICRU) -huoltolaajennusta. Katso alta myös muut huoltolaajennukset.
+
+Osta tämä tietokone nyt, niin saat veloituksetta kolmen vuoden takuun! Aktivoi takuu lisäämällä tilaukselle tuotekoodi 160956. Vain kuluttaja-asiakkaille. Lue lisää: https://www.verkkokauppa.com/fi/kolmevuotta.
